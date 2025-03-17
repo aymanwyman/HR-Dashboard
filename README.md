@@ -84,14 +84,24 @@ The dashboard includes the following visualizations:
   - Genuine exhaustion from weekend activities or travel.  
 - **Business Recommendation:**  
   - HR can **monitor recurring Monday absences** to ensure fairness.  
-  - Consider allowing **optional WFH Mondays** to improve work-life balance.  
-
----
-
-## Additional Notes  
+  - Consider allowing **optional WFH Mondays** to improve work-life balance.
+ 
+  ## Additional Notes  
 - The dataset is based on **Atliq Technologies, an India-based software and data solutions company**.  
 - Cultural and seasonal factors (summer heat, monsoon, school schedules) have been considered in the insights.  
 - Future improvements could include **adding more months of data** to observe long-term trends.  
+
+ 
+## Files Included  
+This repository contains the following files:  
+1. **Excel File** – The raw data used for creating the HR Dashboard.  
+2. **PBIX File** – The Power BI report that contains the data transformations, DAX calculations, and visualizations.  
+3. **Dashboard PDF** – A static view of the HR Dashboard for quick reference.  
+
+Ensure you have **Power BI Desktop** installed to open the PBIX file, and feel free to explore the dashboard.
+
+---
+
 
 ---
 
