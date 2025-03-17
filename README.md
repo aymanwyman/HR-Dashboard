@@ -3,7 +3,7 @@
 ## Overview  
 This Power BI dashboard provides insights into employee attendance patterns over **April, May, and June 2022**.  
 The dataset comes from **Atliq Technologies**, a **software and data solutions company in India**.  
-It includes **presence %, work-from-home (WFH) %, and sick leave (SL) %** visualizations, along with detailed daily attendance tracking.  
+It includes **presence %, work-from-home (WFH) %, and sick leave (SL) %** visualisations, along with detailed daily attendance tracking.  
 
 ## Data Cleaning & Transformation  
 - The dataset consisted of **three sheets (April, May, June 2022)**, each containing daily attendance records.  
@@ -22,13 +22,13 @@ Several **DAX measures and calculated columns** were created, including:
 - **WFH Count & SL Count** in calculated columns.  
 
 ## Dashboard Features  
-The dashboard includes the following visualizations:  
+The dashboard includes the following visualisations:  
 1. **Presence %, WFH %, and SL %** for each employee.  
 2. **Detailed attendance sheet** for daily granularity.  
 3. **Presence % trend** over three months.  
 4. **WFH % trend** over three months.  
 5. **SL % trend** over three months.  
-6. **WFH, Presence %, and SL % by weekday** (to analyze patterns).  
+6. **WFH, Presence %, and SL % by weekday** (to analyse patterns).  
 7. **Month selector (April, May, June) for filtering insights**.  
 
 ## Key Insights & Business Recommendations  
@@ -39,7 +39,7 @@ The dashboard includes the following visualizations:
 
 ### 2. Work-From-Home (WFH) Accounts for 10% of Present Days  
 - Remote work is a small but notable portion of total attendance.  
-- This shows a **hybrid work model**, which can be further optimized for productivity.  
+- This shows a **hybrid work model**, which can be further optimised for productivity.  
 
 ### 3. WFH Peaks on Thursdays & Fridays  
 - Employees prefer WFH on **Thursdays and Fridays**.  
@@ -48,7 +48,7 @@ The dashboard includes the following visualizations:
   - Some employees might use WFH for better focus before the weekend.  
 - **Business Recommendation:**  
   - Management could **plan team-building activities in the middle of the week** (Tuesday/Wednesday), as more employees are physically present.  
-  - **Capacity planning**: If the company has 100 employees but WFH trends show lower occupancy on Fridays, they might not need 100 desks daily—**hot desking policies** could be introduced to optimize space.  
+  - **Capacity planning**: If the company has 100 employees but WFH trends show lower occupancy on Fridays, they might not need 100 desks daily—**hot desking policies** could be introduced to optimise space.  
 
 ### 4. Declining Presence % Towards June  
 - There is a noticeable **drop in attendance in June**.  
